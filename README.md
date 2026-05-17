@@ -12,7 +12,7 @@ El proyecto compara la inferencia estadística clásica utilizando el paquete `f
 * `Modelos_IA/`: Archivos `.joblib` con los modelos pre-entrenados listos.
 
 ## Requisitos y Dependencias
-Para ejecutar los notebooks y reproducir los resultados, se requiere **Python 3** y las siguientes librerías de terceros:
+Para ejecutar los notebooks y reproducir los resultados, se requiere **Python 3** y las siguientes librerías de terceros que se pueden encontrar en el requirements.txt con la versión utilizada durante el desarrollo del proyecto:
 
 **Física Fenomenológica y Minimización:**
 * `flavio` y `wilson` (Cálculo de observables teóricos y coeficientes de WET)
