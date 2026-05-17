@@ -37,7 +37,7 @@ Debido a las limitaciones de tamaño de archivo de GitHub, los modelos pre-entre
 * Descargar Emulador 4D (3GB)(https://drive.google.com/file/d/1wyfDec7T3sHMMy85itDAuhJ1Mm_jvffB/view?usp=sharing)
 * Descargar Emulador 6D (3GB)(https://drive.google.com/file/d/1INGvyDBTy7-hFaMC37Wy5EUxyj_tTlW4/view?usp=sharing)
 
-Para utilizar el notebook de ML, descarga los modelos y colócalos en la carpeta `Modelos_IA/`.
+Para utilizar el notebook de ML, hay que descargar los modelos y colocarlos en la carpeta `Modelos_IA/`, a su vez si se reentrenan los modelos estos se generaran en la carpeta `Codigo_ML/` y habra que moverlos manualmente a la carpeta `Modelos_IA/`.
 
 ## Declaración de Transparencia y Uso de IA
 En cumplimiento con la normativa de la universidad para el desarrollo del TFG:
